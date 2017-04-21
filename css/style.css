@@ -1,7 +1,9 @@
 html, body {
     background:url('../img/hangingrock2015.jpg') center center no-repeat;
-    height: 100%;
+    height:100%;
+    width:100%;
     background-size:cover;
+    overflow:hidden;
 }
 
 
